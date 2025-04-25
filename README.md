@@ -27,7 +27,7 @@ Run the notebook in Google Colab to execute the analysis. The notebook includes 
 The dataset used for this project consists of multiple CSV files categorized by timeframes (Daily, 4-hour, Weekly, 30 Min, 15 Min, and 1 Min charts). You can find the dataset [here](https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv).
 
 ## Documentation
-For detailed information on methodology, results, and insights, please refer to the [Project Documentation PDF](https://github.com/Bladys0710/pyspark-crypto-coins-prices/blob/main/Project Documentation.pdf).
+For detailed information on methodology, results, and insights, please refer to the [Project Documentation PDF](https://github.com/Bladys0710/pyspark-crypto-coins-prices/blob/main/Documentation.pdf).
 
 ## Technologies Used
 - PySpark
